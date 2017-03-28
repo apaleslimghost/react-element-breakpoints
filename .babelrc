@@ -1,0 +1,7 @@
+{
+  "plugins": [],
+  "presets": [
+    "react",
+    "es2015"
+  ]
+}
