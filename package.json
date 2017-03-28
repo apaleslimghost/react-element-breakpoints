@@ -2,7 +2,7 @@
   "name": "react-element-breakpoints",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "prepublish": "make"
   },
