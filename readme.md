@@ -1,4 +1,4 @@
-react-element-query
+react-element-breakpoints
 ===
 
 A higher-order-component for Element Queries in React, using the ResizeObserver polyfill.
@@ -7,7 +7,7 @@ usage
 ---
 
 ```js
-import {withBreakpoints, bp} from 'react-element-query';
+import {withBreakpoints, bp} from 'react-element-breakpoints';
 
 const FancyHeader = withBreakpoints({
 	wide: ({width}) => width >= 400,

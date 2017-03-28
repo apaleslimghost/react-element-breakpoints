@@ -1,5 +1,5 @@
 {
-  "name": "react-element-query",
+  "name": "react-element-breakpoints",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quarterto/react-element-query.git"
+    "url": "git+https://github.com/quarterto/react-element-breakpoints.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quarterto/react-element-query/issues"
+    "url": "https://github.com/quarterto/react-element-breakpoints/issues"
   },
-  "homepage": "https://github.com/quarterto/react-element-query#readme",
+  "homepage": "https://github.com/quarterto/react-element-breakpoints#readme",
   "dependencies": {
     "lodash.mapvalues": "^4.6.0",
     "react": "^15.4.2",
